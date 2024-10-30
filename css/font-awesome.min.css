@@ -1,0 +1,22 @@
+/*!
+ * Font Awesome Free 5.6.1 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,.fab,.fal,.far,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-eye:before{content:"\f06e"}.fa-eye-slash:before{content:"\f070"}
+
+@font-face{
+font-family:"Font Awesome 5 Free";
+font-style:normal;
+font-weight:900;
+src:url(../fonts/fa-solid-900.eot);
+src:url(../fonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),
+url(../fonts/fa-solid-900.woff2) format("woff2"),
+url(../fonts/fa-solid-900.woff) format("woff"),
+url(../fonts/fa-solid-900.ttf) format("truetype"),
+url(../fonts/fa-solid-900.svg#fontawesome) format("svg")
+}
+
+.fa,.far,.fas{font-family:"Font Awesome 5 Free"}
+
+.fa,.fas{font-weight:900}
+

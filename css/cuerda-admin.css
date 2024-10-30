@@ -1,0 +1,6 @@
+table.cat_map,table.cat_map th,table.cat_map td{
+border:none
+}
+table.cat_map tbody th{
+min-width:8em
+}
